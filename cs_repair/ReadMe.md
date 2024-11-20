@@ -3,7 +3,7 @@
 ## Overview
 This script allows players to use a repair kit (`repairitem`) to repair vehicles in their QBCore server.
 Disclaimer I made this repairkit script for my own qbcore server and so i dont know if this will work with 
-qb-inventory or any other inventory system but if your looking for a simple repairkit you've come to the right place.
+qb-inventory or any other inventory system but i do know it works with ox_inventory so if your looking for a simple repairkit you've come to the right place.
 
 ## Features
 - Integration with `ox_lib` for notifications and progress bar.
