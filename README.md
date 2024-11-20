@@ -12,8 +12,10 @@ qb-inventory or any other inventory system but if your looking for a simple repa
 ## Installation
 
 1. Download the `cs_repair` folder and place it in your `resources` directory.
-2. Add `start cs_repair` to your `server.cfg`.
-3. Add the `repairitem` to your shared items (`shared/items.lua`):
+2. Execute the sql inside the sql folder
+3. Add `start cs_repair` to your `server.cfg`.
+4. Add the `repairitem` to your shared items (`shared/items.lua`):
+   
 
 ```lua
 ['repairitem'] = {
